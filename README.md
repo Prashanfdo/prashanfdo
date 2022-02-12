@@ -48,7 +48,6 @@
 ### Latest Posts from my blog([prashan.org/blog](https://prashan.org/blog))
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Deploy Smart Contracts on Polygon &lpar;Matic&rpar; Network and Error Handling](https://www.prashan.org/blog/15-deploy-smart-contracts-on-polygon-matic-network-and-error-handling/)
 - [Secure Smart Contracts from Self Destruct](https://www.prashan.org/blog/14-secure-smart-contracts-from-self-destruct/)
 - [Truffle for Smart Contract Testing](https://www.prashan.org/blog/13-truffle-for-smart-contract-testing/)
